@@ -1,0 +1,68 @@
+$css--reset: false !default; 
+$css--plex: false !default; 
+$css--reset: false !default; 
+$edited: false !default; 
+$brand-01: #00677f !default; 
+$brand-02: #4298b5 !default; 
+$brand-03: #64a70b !default; 
+$ui-01: #ffffff !default;
+$ui-02: #e6e7e8 !default;
+$ui-03: #cdcdcf !default;
+$ui-04: #8e9196 !default;
+$ui-05: #53565a !default;
+$text-01: #2d2926 !default;
+$text-02: #53565a !default;
+$text-03: #cdcdcf !default;
+$inverse-01: #ffffff !default;
+$field-01: #f8f8f8 !default;
+$support-01: #c62828 !default;
+$support-02: #2e7d32 !default;
+$support-03: #f9a825 !default;
+$support-04: #4298b5 !default;
+
+$font-family-sans-serif: 'robotoregular' !default;
+$font-family-mono: 'robotoregular' !default;
+$font-family-serif: 'robotoregular' !default;
+$font-family-helvetica: 'robotoregular' !default;
+
+@font-face {
+  font-family: 'robotoregular';
+  src: url('fonts/roboto-regular-webfont.woff2') format('woff2'),
+    url('fonts/roboto-regular-webfont.woff') format('woff');
+}
+/*
+$use-layer: false;
+$input-border: 1px solid $ui-04;
+$input-label-weight: 700;
+$button-font-weight: 400;
+$button-font-size: 1rem;
+$button-border-radius: .5rem;
+$button-height: 32px;
+$button-padding: 0 2rem;
+$button-padding-sm: 0 1rem;
+$button-border-width: 1px;
+$accordion-flex-direction: row-reverse;
+$accordion-justify-content: space-between;
+$accordion-arrow-margin: 0 .25rem 0 0;
+$accordion-title-margin: 0 0 0 0;
+$accordion-content-padding: 0 1.75rem 0 0;
+$card-text-align: center;
+$card-flex-align: center;
+$checkbox-border-width: 1px;
+$snippet-background-color: $ui-03;
+$content-switcher-border-radius: 1.5rem;
+$content-switcher-option-border: none;
+$data-table-heading-transform: none;
+$data-table-heading-border-bottom: 1px solid $ui-04;
+$data-table-row-height: 5rem;
+$modal-border-top: none;
+$modal-footer-background-color: transparent;
+$progress-indicator-bar-width: none;
+$progress-indicator-stroke-width: 2;
+$progress-indicator-line-offset: .7rem;
+$radio-border-width: 1px;
+$structured-list-padding: 2rem;
+$structured-list-text-transform: none;
+$nav-01: #1b2834;
+$nav-02: #1c496d;
+*/
